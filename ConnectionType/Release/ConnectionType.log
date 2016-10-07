@@ -1,0 +1,26 @@
+﻿  Server.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0501 to the compiler command line; or
+  - add _WIN32_WINNT=0x0501 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0501 (i.e. Windows XP target).
+Server.cpp(84): warning C4244: инициализация: преобразование "std::streamsize" в "int", возможна потеря данных
+Server.cpp(258): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+Server.cpp(263): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+Server.cpp(373): warning C4244: инициализация: преобразование "std::streamsize" в "int", возможна потеря данных
+Server.cpp(386): warning C4244: инициализация: преобразование "std::streamsize" в "int", возможна потеря данных
+Server.cpp(405): warning C4101: prevRobotPosition: неиспользованная локальная переменная
+Server.cpp(513): warning C4244: инициализация: преобразование "std::streamsize" в "int", возможна потеря данных
+Server.cpp(568): warning C4101: tempX: неиспользованная локальная переменная
+Server.cpp(567): warning C4101: tempch: неиспользованная локальная переменная
+Server.cpp(569): warning C4101: tempZ: неиспользованная локальная переменная
+Server.cpp(678): warning C4244: инициализация: преобразование "std::streamsize" в "int", возможна потеря данных
+Server.cpp(784): warning C4018: <: несоответствие типов со знаком и без знака
+Server.cpp(803): warning C4018: <: несоответствие типов со знаком и без знака
+Server.cpp(805): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  1 of 1834 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ConnectionType.vcxproj -> C:\Users\Aleksandr.Petrushin\Documents\Visual Studio 2015\Projects\ConnectionType\Release\ConnectionType.exe
+  ConnectionType.vcxproj -> C:\Users\Aleksandr.Petrushin\Documents\Visual Studio 2015\Projects\ConnectionType\Release\ConnectionType.pdb (Full PDB)
